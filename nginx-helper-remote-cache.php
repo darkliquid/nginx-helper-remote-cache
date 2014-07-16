@@ -5,6 +5,8 @@
   Version: 0.1.0
   Author: Andrew Montgomery-Hurrell
   Author URI: http://multiplay.com
+  License: GPLv2
+  License URI: http://www.gnu.org/licenses/gpl-2.0.html
   Requires at least: 3.0
   Tested up to: 3.5
 */
@@ -13,7 +15,7 @@
  * PHP version 5
  *
  * @link http://github.com/multiplay/nginx-helper-remote-cache
- * @license Proprietary
+ * @license GPLv2
  * @author Andrew Montgomery-Hurrell
  * @category Wordpress
  * @package NginxHelperRemoteCache
